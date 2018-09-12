@@ -1,0 +1,3 @@
+create sequence id_seq
+start with 100
+increment by 1;
